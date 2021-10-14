@@ -1,0 +1,12 @@
+.Text {
+    font-family: sans-serif;
+  text-align: center;
+  border: 3px double rgba(255, 255, 0, 0.719);
+  background-color: whitesmoke;
+  padding: 3%;
+  margin: 10%;
+}
+
+body {
+    background: rgba(0, 162, 255, 0.808);
+}
